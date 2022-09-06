@@ -5,4 +5,4 @@
 
 ## Links Úteis
 - Dica: você pode dar um "fork" no repositório disponibilizado pela expert para organizar melhor as suas alterações e evoluções, mantendo uma referência direta ao código original.
-Repositório no GitHub (implementação de referência)
+- https://github.com/SpruceGabriela/snake-the-game
